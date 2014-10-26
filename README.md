@@ -12,10 +12,11 @@ This scheme of work is specifically targeted towards KS3 and KS4 Computing, alth
 
 Over the course of four lessons, students will learn:
 
-- How to network two or more Raspberry Pis together
-- How to program a Raspberry Pi to send messages to another Pi
-- How to control hardware over a network
-- Network configuration and server set up
+- How to network two or more Raspberry Pis together - Useful for numerous purposes, from business cost reducing to small
+  home network creating.
+- How to program a Raspberry Pi to send messages to another Pi 
+- How to control hardware over a network - Comes in handy for making a small contact with the Network Administrator job.
+- Network configuration and server set up - Great knowledge to obtain, for both personal and business gain.
 - Basic networking concepts including:
 	- IP address
 	- Servers and clients
